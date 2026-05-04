@@ -12,6 +12,6 @@ page = st.sidebar.radio(
 )
 
 if page == "Анализ и модель":
-    analysis_and_model.analysis_and_model_page()
+   analysis_and_model.analysis_and_model_page()
 else:
-    presentation.presentation_page()
+   presentation.presentation_page()
